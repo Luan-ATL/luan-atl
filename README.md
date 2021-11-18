@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 
+
+### Hi there! 👋
+I’m Luan Augusto Teixeira || @Luan-ATL
 
 <!--
 **Luan-ATL/Luan-ATL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
