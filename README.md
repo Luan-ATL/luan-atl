@@ -1,4 +1,4 @@
-<h2 align="center">Olá! Eu sou Luan Augusto Teixeira || @Luan-ATL  👋🏼<h2/>
+<h2 align="center">Hello World! I'm Luan Augusto Teixeira || @Luan-ATL 👋🏼<h2/>
 
 <div align="center">
   <a href="https://github.com/Luan-ATL">
